@@ -1,7 +1,7 @@
 # Tagup_Challenge
 Tagup Data Engineer challenge, submitted by Benjamin Lampert
 
-This is my submission for the technical challenge for the Data Engineering position at Tagup Inc. The challenge involved reading in example data from a database, cleaning it up, and transforming it to an array format which is more useful as input to Tagup's ML pipelines.
+This is my submission for the technical challenge for the Data Engineer position at Tagup Inc. The challenge involves reading in example data from a database, cleaning it up, and transforming it to an array format which is more useful as input to Tagup's ML pipelines.
 
 ## Explanation of code
 
