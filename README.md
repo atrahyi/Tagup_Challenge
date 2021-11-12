@@ -21,7 +21,7 @@ To demonstrate the efficacy of my approach, I generated visualizations for each 
 
 ## Findings
 
-#Data
+### Data
 
 The data contains 3000 observations of 4 features for a fleet of 20 machines, 14 of which are of Model “Model A” and 6 of which are of model “Model B”. Model A machines are located in Room 123 and Model B machines are in Room 456. Observations are equally spaced out in time at intervals of just over 8 hours.
 
